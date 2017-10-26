@@ -248,6 +248,22 @@
             <element signature="e#90#91#0" expanded="true" />
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#173#174#0" expanded="true" />
+<<<<<<< HEAD
+=======
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIT1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+>>>>>>> prueba
           </folding>
         </state>
       </provider>
