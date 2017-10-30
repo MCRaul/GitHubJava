@@ -6,7 +6,7 @@ public class GIT1 {
 
     public static void printHola(){
 
-        System.out.println("Hola Mundito!");
+        System.out.println("Hola Mundito! ¿como estas?");
     }
 
 }
